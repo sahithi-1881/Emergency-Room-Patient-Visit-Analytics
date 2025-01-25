@@ -32,9 +32,9 @@ The visit trends show a higher preference for services on weekdays (3.3K visits)
 The average satisfaction rating is 5.45, indicating a need to explore ways to improve the patient experience.
 A significant portion of services (75.71%) remains unrated, suggesting either insufficient feedback collection mechanisms or gaps in patient engagement during visits.
 #### 3. Demographic Insights
-Age Distribution: The majority of visits are from adults (78%), followed by teenagers and middle childhood groups. This indicates the need for services tailored to adult health concerns.
-Gender Distribution: Patient visits are split almost evenly by gender, with 51.5% male and 48.2% female patients.
-Race Distribution: A heatmap reveals disparities in average wait times across races, which could indicate potential inequities in service delivery.
+- **Age Distribution**: The majority of visits are from adults (78%), followed by teenagers and middle childhood groups. This indicates the need for services tailored to adult health concerns.
+- **Gender Distribution**: Patient visits are split almost evenly by gender, with 51.5% male and 48.2% female patients.
+- **Race Distribution**: A heatmap reveals disparities in average wait times across races, which could indicate potential inequities in service delivery.
 #### 4. Departmental Referrals
 No Department Referrals account for 2.7K visits, which might represent patients seeking general consultations or those who left without being assigned to specific departments.
 Among referrals, General Practice (0.9K visits) and Orthopedics (0.5K visits) are the top departments, reflecting the primary needs of patients.
