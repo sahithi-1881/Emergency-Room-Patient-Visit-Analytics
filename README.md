@@ -44,6 +44,6 @@ The heatmap of wait times shows that certain groups (e.g., specific age or race 
 #### 6. Yearly Trends
 Patient visits have grown from 2,177 in 2019 to 2,455 in 2020, a 12.8% increase. This upward trend suggests increased demand for emergency services, potentially indicating population growth or a rising need for healthcare access.
 #### 7. Key Findings
-Operational Gaps: High percentages of unrated services and long wait times for specific groups highlight opportunities for better service delivery.
-Growth Opportunities: Analyzing growth in specific demographics or departments can guide resource allocation.
-Engagement Challenges: The high number of "No Department Referrals" visits suggests opportunities to guide patients more effectively.
+- **Operational Gaps**: High percentages of unrated services and long wait times for specific groups highlight opportunities for better service delivery.
+- **Growth Opportunities**: Analyzing growth in specific demographics or departments can guide resource allocation.
+- **Engagement Challenges**: The high number of "No Department Referrals" visits suggests opportunities to guide patients more effectively.
