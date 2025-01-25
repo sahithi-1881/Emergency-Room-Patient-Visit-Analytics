@@ -6,23 +6,17 @@
 This Power BI dashboard provides an interactive visualization of patient visit trends in the Emergency Room. It enables healthcare providers to gain actionable insights into patient demographics, visit patterns, and service ratings.
 
 ## Key Features
-#### 1. Patient Visit Overview: 
-Total patient visits categorized by administrative and non-administrative appointments.
+**1. Patient Visit Overview**: Total patient visits categorized by administrative and non-administrative appointments.
 
-#### 2. Satisfaction Analysis:
-Average satisfaction ratings and percentage of unrated services.
+**2. Satisfaction Analysis**: Average satisfaction ratings and percentage of unrated services.
 
-#### 3. Demographic Insights: 
-Patient visits broken down by age group, gender, and race.
+**3. Demographic Insights**: Patient visits broken down by age group, gender, and race.
 
-#### 4. Trend Analysis: 
-Year-over-year patient visit trends and weekday vs. weekend visit patterns.
+**4. Trend Analysis**: Year-over-year patient visit trends and weekday vs. weekend visit patterns.
 
-#### 5. Departmental Breakdown: 
-Number of patients referred to specific medical departments.
+**5. Departmental Breakdown**: Number of patients referred to specific medical departments.
 
-#### 6. Wait Time Visualization: 
-Heatmap analysis of average patient wait times by age and race.
+**6. Wait Time Visualization**: Heatmap analysis of average patient wait times by age and race.
 
 ## Detailed Analysis
 #### 1. Patient Visits Overview
