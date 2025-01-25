@@ -1,9 +1,9 @@
 # Patient Visit Analysis for Emergency Care
 
-# Description
+## Description
 This Power BI dashboard provides an interactive visualization of patient visit trends in the Emergency Room. It enables healthcare providers to gain actionable insights into patient demographics, visit patterns, and service ratings.
 
-# Key Features
+## Key Features
 ### 1. Patient Visit Overview: 
 Total patient visits categorized by administrative and non-administrative appointments.
 
